@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, I'm Vasily 👋
 
-<!--
-**extg/extg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Developer with experience in Node.js, Next.js, Nest.js, React, TypeScript, and other related technologies. I am passionate about developing high-quality, scalable, and maintainable software solutions.
 
-Here are some ideas to get you started:
+#### 💬 Ask me about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you have any questions about my projects or anything related to my expertise, feel free to ask me anything.
+
+#### 📫 How to reach me
+
+You can reach me through:
+
+- Email: extg37@gmail.com
+- LinkedIn: [Vasily K](https://www.linkedin.com/in/vasily-k/)
+- Telegram: [@extg5](https://t.me/extg5)
