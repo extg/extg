@@ -10,6 +10,6 @@ If you have any questions about my projects or anything related to my expertise,
 
 You can reach me through:
 
-- Email: extg37@gmail.com
+- Email: krylov@vasily.dev
 - LinkedIn: [Vasily K](https://www.linkedin.com/in/vasily-k/)
 - Telegram: [@extg5](https://t.me/extg5)
